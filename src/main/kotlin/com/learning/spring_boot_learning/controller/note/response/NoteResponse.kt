@@ -1,4 +1,4 @@
-package com.learning.spring_boot_learning.controller.response
+package com.learning.spring_boot_learning.controller.note.response
 
 import java.time.Instant
 
